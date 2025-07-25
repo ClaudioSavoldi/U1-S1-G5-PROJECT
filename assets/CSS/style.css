@@ -1,0 +1,171 @@
+/* Your styles here */
+body {
+  color: #393d41;
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  line-height: 1.7rem;
+  font-size: 1.1rem;
+}
+
+header {
+  background-color: black;
+  text-align: center;
+  height: 100px;
+  padding-top: 25px;
+  padding-bottom: 30px;
+  box-sizing: border-box;
+}
+
+header img {
+  height: 2.5em;
+}
+
+#hero {
+  background-image: url(../images/banner.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+  box-sizing: border-box;
+  padding-bottom: 5px;
+  padding-inline: 1.5em;
+  display: inline-block;
+  text-align: center;
+}
+
+h1 {
+  color: #25a2c3;
+  font-size: 2em;
+  font-weight: bold;
+  margin-inline: 1em;
+  margin-top: 1.6em;
+  margin-bottom: 0em;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 2.2rem;
+  letter-spacing: -1px;
+}
+
+aside {
+  color: white;
+  text-align: center;
+  background-color: #e22d0e;
+  padding-block: 1.5em;
+  margin-bottom: 2.5em;
+}
+
+aside h2 {
+  font-size: 1.7em;
+  margin-block: 1.2em;
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+}
+aside h3 {
+  font-size: 1.3em;
+  margin-top: 2.2em;
+}
+aside p {
+  font-size: 0.9em;
+  font-style: italic;
+  padding: 0;
+}
+
+aside div {
+  margin-block: 1em;
+}
+
+.corpo img {
+  border-radius: 50%;
+  max-width: 100%;
+  margin-inline: auto;
+}
+
+.corpo {
+  padding-inline: 1.8em;
+}
+main h4 {
+  color: #25a2c3;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+
+main p {
+  letter-spacing: 0.5px;
+}
+
+footer {
+  text-align: center;
+  background-color: #25a2c3;
+  color: white;
+  padding: 1em;
+  padding-bottom: 4em;
+}
+footer a {
+  color: white;
+}
+footer h2 {
+  font-size: 1.7em;
+  margin-block: 1.2em;
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+}
+footer p {
+  display: inline;
+}
+footer hr {
+  margin-block: 2em;
+}
+#hero p {
+  padding-inline: 0.7em;
+  letter-spacing: normal;
+  margin-bottom: 1em;
+}
+
+#hero button {
+  background-color: #f04c2f;
+  padding: 1em;
+  width: 12em;
+  height: 3.7em;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  border-style: hidden;
+  letter-spacing: 1px;
+}
+
+.caratteristiche {
+  text-align: center;
+  margin-block: 2.8em;
+}
+
+.cards {
+  max-width: 100%;
+  margin-inline: auto;
+  text-align: center;
+  border: solid 1px #393d412d;
+  margin-bottom: 2em;
+}
+
+.cards img {
+  border-radius: 0%;
+}
+
+.cards h4,
+p {
+  padding-block: 1em;
+  padding-inline: 0.5em;
+  margin: 0;
+}
+
+.cards h4 {
+  padding-bottom: 0;
+}
