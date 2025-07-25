@@ -1,0 +1,166 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  color: #393d41;
+  font-size: 1.4rem;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+}
+header {
+  background-color: black;
+  padding-block: 1.7em;
+}
+header img {
+  height: 2.7em;
+  margin-left: 2.5em;
+}
+#hero {
+  height: 650px;
+  background-image: url(../images/banner.jpg);
+  background-size: cover;
+
+  background-attachment: scroll;
+  text-align: center;
+  padding: 1px;
+}
+
+#hero div {
+  margin-block: 6em;
+  line-height: 3.5em;
+  padding-inline: 23em;
+}
+
+#hero button {
+  background-color: #f04c2f;
+  padding: 1em;
+  width: 12em;
+  height: 3.7em;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  border-style: hidden;
+  letter-spacing: 1px;
+}
+h1 {
+  color: #25a2c3;
+  font-size: 2.5em;
+  font-weight: bold;
+  margin-inline: 1em;
+
+  margin-bottom: 0em;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 2.2rem;
+  letter-spacing: -1px;
+}
+
+.corpo {
+  text-align: center;
+  margin-block: 4em;
+}
+
+.cerchio {
+  border-radius: 50%;
+  height: 526px;
+}
+
+.elenco {
+  display: inline-block;
+  text-align: start;
+  padding: 2em;
+  list-style: none;
+  vertical-align: top;
+  margin-top: 2em;
+  line-height: 1.5em;
+}
+
+h4 {
+  font-size: 1.4em;
+  line-height: 1.8;
+  color: #25a2c3;
+  font-weight: bold;
+}
+
+aside {
+  color: white;
+  text-align: center;
+  background-color: #e22d0e;
+  padding-block: 5.5em;
+  margin-bottom: 2.5em;
+}
+
+h2 {
+  font-size: 1.8em;
+}
+
+aside div {
+  margin-block: 2em;
+}
+
+.cards {
+  display: inline-block;
+  box-sizing: border-box;
+  width: 33.333%;
+  margin-inline: 1em;
+  text-align: center;
+  border: solid 1px #393d412d;
+  margin-bottom: 2em;
+  width: 500px;
+  padding-bottom: 1.8em;
+}
+
+.imgcard {
+  width: 100%;
+  height: 298.97px;
+}
+
+.didasc {
+  line-height: 2em;
+}
+
+footer {
+  text-align: center;
+  background-color: #25a2c3;
+  color: white;
+  padding: 1em;
+  padding-bottom: 4em;
+}
+footer a {
+  color: white;
+}
+footer h2 {
+  font-size: 1.7em;
+  margin-block: 1.2em;
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+}
+footer p {
+  display: inline;
+  font-style: normal;
+}
+footer hr {
+  display: inline-block;
+  margin-block: 2em;
+  width: 15em;
+  text-align: center;
+}
+
+footer ul {
+  line-height: 1.5em;
+  list-style: none;
+}
